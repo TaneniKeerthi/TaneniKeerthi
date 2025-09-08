@@ -72,5 +72,4 @@
 
 ---
 
-## 🎉 Fun Fact
-⚡ *"Technology is best when it brings people together."* – Matt Mullenweg
+
